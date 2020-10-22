@@ -13,7 +13,8 @@ header:
 ---
 
 The 2020's CTF will at hack.lu again be held by [FluxFingers](https://www.fluxfingers.net/), the CTF Team of
-Ruhr-Universität Bochum (Germany). This will be the tenth hack.lu CTF held by the FluxFingers.
+Ruhr-Universität Bochum (Germany). This will be the 11th hack.lu CTF held by the FluxFingers. The topic
+is Pwnhub (don't worry it's safe for work).
 
 ![FluxFingers logo](https://fluxfingers.net/static/img/logo_white.png)
 
