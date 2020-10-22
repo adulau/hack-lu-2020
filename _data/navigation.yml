@@ -1,0 +1,26 @@
+# main links
+main:
+  - title: "Talks"
+    url: /talks/
+  - title: "Agenda"
+    url: /agenda/
+  - title: "Sponsoring"
+    url: /sponsoring/
+  - title: "Info & Registration"
+    url: /info/
+  - title: "Call-for-Papers"
+    url: https://cfp.hack.lu/
+  - title: "CTF"
+    url: /ctf/
+  - title: "Code of conduct"
+    url: /CoD/
+  - title: "hack.lu 2017"
+    url: https://2017.hack.lu/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

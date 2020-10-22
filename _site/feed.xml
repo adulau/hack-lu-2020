@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-10-21T06:00:08+02:00</updated><id>/</id><title type="html">hack.lu 2019</title><subtitle>Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It's the 14th edition (22-24 October 2019) of hack.lu in Luxembourg.</subtitle><author><name>hack.lu</name></author><entry><title type="html">Agenda hack.lu 2019</title><link href="/blog/hack.lu-2019-Agenda/" rel="alternate" type="text/html" title="Agenda hack.lu 2019" /><published>2019-10-14T00:00:00+02:00</published><updated>2019-10-14T00:00:00+02:00</updated><id>/blog/hack.lu-2019-Agenda</id><content type="html" xml:base="/blog/hack.lu-2019-Agenda/">&lt;h1 id=&quot;agenda-hacklu-2019&quot;&gt;Agenda hack.lu 2019&lt;/h1&gt;
+
+&lt;p&gt;The Agenda of hack.lu 2019 is &lt;a href=&quot;https://cfp.hack.lu/hacklu19/schedule/&quot;&gt;now available&lt;/a&gt;, please keep an eye on it in case there are last minute changes.
+You can also get it in &lt;a href=&quot;https://cfp.hack.lu/hacklu19/schedule/export/schedule.ics&quot;&gt;ICS format&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And note that there are a &lt;a href=&quot;https://hack.lu/info/&quot;&gt;few tickets left&lt;/a&gt; if you want to attend the conference.&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Agenda hack.lu 2019</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Job Fair hack.lu 2019</title><link href="/blog/hack.lu-2019-jobfair/" rel="alternate" type="text/html" title="Job Fair hack.lu 2019" /><published>2019-07-24T00:00:00+02:00</published><updated>2019-07-24T00:00:00+02:00</updated><id>/blog/hack.lu-2019-jobfair</id><content type="html" xml:base="/blog/hack.lu-2019-jobfair/">&lt;h1 id=&quot;job-fair--hacklu-2019&quot;&gt;Job Fair @ hack.lu 2019&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/jobfair.png&quot; alt=&quot;banner&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As Hack.lu is the biggest and most established technical information security conference in the benelux region,
+it attracts a lot of highly technical attendees and some of them are looking for new challenges.&lt;/p&gt;
+
+&lt;p&gt;This is why we decided to give the opportunity to companies looking for such profiles to get in touch with them
+during the conference.&lt;/p&gt;
+
+&lt;p&gt;The job fair will take place the 22nd of October, from 16:00 until 19:00, in the hotel of the conference, Parc Hotel in Luxembourg (Dommeldange). It is open for all candidates for free, only the &lt;a href=&quot;https://www.jobfair.eden-forums.fr&quot;&gt;registration is required&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sponsors of the Cybersecurity Week Luxembourg and hack.lu have the opportunity to participate in the fair with a stand for free,
+(within the limit of places available). If you want one, please get in touch as soon as possile.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned on Twitter and during the conference for more details.&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Job Fair @ hack.lu 2019</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Call for Failure (CfF 0x0) - Over Fail the untold truth behind the magic of cybersecurity</title><link href="/blog/hack.lu-Call-For-Failure/" rel="alternate" type="text/html" title="Call for Failure (CfF 0x0) - Over Fail the untold truth behind the magic of cybersecurity" /><published>2019-07-23T21:39:55+02:00</published><updated>2019-07-23T21:39:55+02:00</updated><id>/blog/hack.lu-Call-For-Failure</id><content type="html" xml:base="/blog/hack.lu-Call-For-Failure/">&lt;h1 id=&quot;hacklu-2019---call-for-failure-cff-0x-is-open&quot;&gt;Hack.lu 2019 - Call for Failure (Cff 0x) is open&lt;/h1&gt;
+
+&lt;p&gt;Over Fail: the untold truth behind the magic of cybersecurity. During hack.lu 2019, we have a mini-conference
+within hack.lu conference to proudly share your failures in cybersecurity.&lt;/p&gt;
+
+&lt;p&gt;10-minute talks during hack.lu to present (the/your) biggest failure in cybersecurity you’ve ever experienced and what have you learned from it.&lt;/p&gt;
+
+&lt;p&gt;The event is open to all participant of hack.lu and the accepted speakers for the CfF 0x0. The event will take place the Wednesday 23th October 2019 during the hack.lu conference from 19:00 until 21:00. Talks will be 10-minute max.&lt;/p&gt;
+
+&lt;h2 id=&quot;cff-website&quot;&gt;CfF Website&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://2019.hack.lu/cff/&quot;&gt;CfF hack.lu 2019 submission website&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">10-minute talks during hack.lu to present (the/your) biggest failure in cybersecurity you’ve ever experienced and what have you learned from it</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%22feature%22=%3Enil%7D" /></entry><entry><title type="html">Call for papers is now open for hack.lu 2019</title><link href="/blog/hack.lu-2019-call-for-papers/" rel="alternate" type="text/html" title="Call for papers is now open for hack.lu 2019" /><published>2019-05-01T21:39:55+02:00</published><updated>2019-05-01T21:39:55+02:00</updated><id>/blog/hack.lu-2019-call-for-papers</id><content type="html" xml:base="/blog/hack.lu-2019-call-for-papers/">&lt;h1 id=&quot;hacklu-2019-call-for-papers-presentations-and-workshops&quot;&gt;Hack.lu 2019 Call for Papers, Presentations and Workshops&lt;/h1&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Sometimes it's the detours which turn out to be the fruitful ideas.&lt;/code&gt; &lt;strong&gt;Roger Penrose&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The purpose  of the  hack.lu convention  is to give  an open  and free
+playground   where  people   can  discuss   the  implication   of  new
+technologies in  society.  hack.lu is a balanced  mix convention where
+technical  and non-technical  people can  meet each  others  and share
+freely all  kind of information.  The  convention will be  held in the
+Grand-Duchy of  Luxembourg in October (22-24.10.2019).  The most
+significant  new  discoveries   about  computer  network  attacks  and
+defenses,  commercial  security solutions,  and  pragmatic real  world
+security  experience will  be  presented  in a  three  days series  of
+informative tutorials.   We would like to announce  the opportunity to
+submit papers,  and/or lightning talk  proposals for selection  by the
+hack.lu  technical  review  committee.  This  year we  will  be  doing
+workshops on the first day PM and talks of 1 hour  or  30 minutes  in
+the main track for the three days.&lt;/p&gt;
+
+&lt;h2 id=&quot;scope&quot;&gt;Scope&lt;/h2&gt;
+
+&lt;p&gt;Topics of interest include, but are not limited to :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Software Engineering and Security&lt;/li&gt;
+  &lt;li&gt;Social Engineering&lt;/li&gt;
+  &lt;li&gt;Honeypots/Honeynets&lt;/li&gt;
+  &lt;li&gt;Spyware, Phishing and Botnets (Distributed attacks)&lt;/li&gt;
+  &lt;li&gt;Newly discovered vulnerabilities in software and hardware&lt;/li&gt;
+  &lt;li&gt;Electronic/Digital Privacy&lt;/li&gt;
+  &lt;li&gt;Wireless Network and Security&lt;/li&gt;
+  &lt;li&gt;Attacks on Information Systems and/or Digital Information Storage&lt;/li&gt;
+  &lt;li&gt;Electronic Voting&lt;/li&gt;
+  &lt;li&gt;Free Software and Security&lt;/li&gt;
+  &lt;li&gt;Assessment of Computer, Electronic Devices and Information Systems&lt;/li&gt;
+  &lt;li&gt;Standards for Information Security&lt;/li&gt;
+  &lt;li&gt;Legal and Social Aspect of Information Security&lt;/li&gt;
+  &lt;li&gt;Software Engineering and Security&lt;/li&gt;
+  &lt;li&gt;Security in Information Retrieval&lt;/li&gt;
+  &lt;li&gt;Network Security&lt;/li&gt;
+  &lt;li&gt;Malware Analysis and Reversing&lt;/li&gt;
+  &lt;li&gt;Forensics and Anti-Forensics&lt;/li&gt;
+  &lt;li&gt;Offensive (and counter-offensive) Information Technology&lt;/li&gt;
+  &lt;li&gt;Mobile Communications Security and Vulnerabilities&lt;/li&gt;
+  &lt;li&gt;CSIRTs, Incident Analysis and Response&lt;/li&gt;
+  &lt;li&gt;Information Security and Data Mining&lt;/li&gt;
+  &lt;li&gt;Threats Exchange and Sharing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;deadlines&quot;&gt;Deadlines&lt;/h2&gt;
+
+&lt;p&gt;The following  dates are important if  you want to  participate in the
+call for papers.&lt;/p&gt;
+
+&lt;p&gt;Full paper submission : no later than 15th June 2019&lt;/p&gt;
+
+&lt;p&gt;Notification date : 30th August 2019&lt;/p&gt;
+
+&lt;h2 id=&quot;speakers-privileges&quot;&gt;Speakers’ Privileges&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Only one speaker per talk/workshop will be covered&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Accommodation will be provided (4 nights during the conference)&lt;/li&gt;
+  &lt;li&gt;Travel expenses will be covered up to a max amount agreed in advance&lt;/li&gt;
+  &lt;li&gt;Conference speakers dinner&lt;/li&gt;
+  &lt;li&gt;Access to the hack.lu 2019 conference&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note: Let us know if you have questions regarding accommodations and travel expenses.&lt;/p&gt;
+
+&lt;h2 id=&quot;publication-and-rights&quot;&gt;Publication and rights&lt;/h2&gt;
+
+&lt;p&gt;Authors keep the  full rights on their publication/papers  but give an
+unrestricted  right  to  redistribute  their papers  for  the  hack.lu
+convention and its related electronic/paper publication.&lt;/p&gt;
+
+&lt;h2 id=&quot;sponsoring&quot;&gt;Sponsoring&lt;/h2&gt;
+
+&lt;p&gt;If  you  want  to  support  the  initiative  and  gain  visibility  by
+sponsoring, please contact us by writing an e-mail to info(AT)hack.lu&lt;/p&gt;
+
+&lt;h2 id=&quot;cfp-website&quot;&gt;CfP Website&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cfp.hack.lu/&quot;&gt;CfP hack.lu 2019 submission website&lt;/a&gt;&lt;/p&gt;</content><author><name>hack.lu</name></author><summary type="html">Hack.lu 2019 Call for Papers, Presentations and Workshops</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/%7B%22feature%22=%3Enil%7D" /></entry></feed>
