@@ -31,13 +31,12 @@ The CTF will take place and last 48 hours:
 
 # Topic
 
-> FluxFingers for Future
+> Pwnhub
 
-# CTF Registration
+# Links
 
-Registration will open on Tue, Oct. 15 
-
-[Register Here](https://pwnhub.fluxfingers.net/)
+- [Scoreboard](https://pwnhub.fluxfingers.net/)
+- [CTFtime](https://ctftime.org/event/1142/)
 
 # What
 
