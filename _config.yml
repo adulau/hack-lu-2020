@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "hack.lu 2019"
+title                    : "hack.lu 2020"
 title_separator          : "-"
 name                     : "hack.lu"
-description              : "Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It's the 14th edition (22-24 October 2019) of hack.lu in Luxembourg."
+description              : "Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It's the 16th edition (covid edition) of hack.lu in Luxembourg."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
